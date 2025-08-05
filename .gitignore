@@ -1,0 +1,14 @@
+# Ignore temporary files and OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore any intermediate Tableau files or logs
+# The .twbx file is a packaged workbook, which is what we want to share.
+# The .twb file is the non-packaged version.
+# Tableau temporary files, logs, etc.
+*.twb
+*.log
+*.tds
+*.tfl
+*.tde
+*.tps
