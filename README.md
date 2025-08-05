@@ -66,4 +66,4 @@ To view and interact with the dashboard:
 
 ## Author
 
--   **Name:** Sahil Keharwani
+-   **Name:** Sahil Kesharwani
